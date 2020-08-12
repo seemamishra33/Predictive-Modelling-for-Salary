@@ -1,11 +1,11 @@
 ## Project Name
 
-Salary Prediction for a given job description
+Predictive Modeling for Salary
 
 
-## Goal
+## Objecitve
 
-The goal of this project is to predict the salary for a job description.
+The objective of this project is to predict the salary for a given job description.
 
 
 
