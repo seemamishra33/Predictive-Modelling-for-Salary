@@ -1,17 +1,17 @@
 ## Project Name
 
-Predictive Modeling for Salary
+How much you worth?
 
 
 ## Objecitve
 
-The objective of this project is to predict the salary for a given job description.
+The objective of this project is to provide salary estimate of professionals given a job description usign Machine Learning.
 
 
 
 ## Background 
 
-Accurate recruitment of employees is a key element in the business strategy of every company due to its impact on companies’ productivity and competitiveness. At present, recruitment processes have evolved into complex tasks involving rigorous evaluations and interviews of candidates, with the goal of hiring the best suited professionals for each company’s needs. Determining the salary for the paritcular recruitment is also a important stage of the process because it creates many scenarios like what will be the salary of the job or what should be the salary of the position (can be used by the company), is my salary enough (the employee can think in this term).
+For professional seeking to estimate their salary based on job title, location, Year of Expereince, Major in degree, Type of degree.
 
 
 
