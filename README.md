@@ -11,13 +11,15 @@ The objective of this project is to provide salary estimate of professionals giv
 
 ## Background 
 
-For professional seeking to estimate their salary based on job title, location, Year of Expereince, Major in degree, Type of degree.
+For professional, to estimate their salary based on job title, location, Year of Expereince, Major in degree, Type of degree is a snapshot of where they stand and help them to evaluate themselves for potential job offers in future.
+For recruiting a candidates with right estimaed salary would also help recruiters to prevent employee attrition rate. 
+
 
 
 
 ## The Predictive Task
 
-Given the data, we can predict the salary of the job.
+Salary predition is based on machine learning algorithm. It predcits salary based on 100K data poins tied to job title, miles from metropolis, year of experience etc.
 
 For this task I plan to use the mean square error (mse). Using error metric like precision and recall do not make sense as I am not predicting binary values or predicting classes. I predict an absolute value and the best way to find the error is by finding how much I missed the actual value by.
 
