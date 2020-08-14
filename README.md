@@ -21,8 +21,7 @@ For recruiting a candidates with right estimaed salary would also help recruiter
 
 Salary predition is based on machine learning algorithm. It predcits salary based on 100K data poins tied to job title, miles from metropolis, year of experience etc.
 
-For this task I plan to use the mean square error (mse). Using error metric like precision and recall do not make sense as I am not predicting binary values or predicting classes. I predict an absolute value and the best way to find the error is by finding how much I missed the actual value by.
-
+For this task I have used a mean squared error (MSE) metric to evaluate the Machine Learning Algorithms. 
 I am using the baseline model as linear regression predicting the salaries for all jobs. Here I am considering this as the baseline because this is a model which would give the estimate of mse. Anything below this is a useless model and probably the combination of features used should not be experimented further. Based on the knowledge of jobs and salary provided I focused my model on three features. First, years of experience; second, the location of the job; third, the category of the job; fourth
 
 
